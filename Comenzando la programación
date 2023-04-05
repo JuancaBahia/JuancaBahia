@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Savant Life Domótica</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Este es un documento HTML5">
+    <meta name="keywords" content="Domótica, sistemas electrónicos de seguridad, electricidad, instalación eléctrica, ciudad y campo">
+    <link rel="stylesheet" href="misestilos.css">
+</head>
+<body>
+    <header>
+        SAVANT LIFE DOMOTICA
+    </header>
+    <nav>
+        Principal | Servicios | Productos | Tienda | Contacto
+    </nav>
+    <main>
+        <section>
+            <article>
+                Instalaciones eléctricas
+            </article>
+            <article>
+                Domótica
+            </article>
+            <article>
+                Sistemas Electrónicos de Seguridad
+            </article>
+        </section>
+        <aside>
+            Instalaciones Eléctricas en Obras, Trabajos en zona urbana y rural
+            Con la domótica brindamos confort, aplicando tecnologías actuales adaptadas a la necesidad del cliente
+            Brindamos servicio de CCTV y alarmas monitoreadas para dar la mayor seguridad a los domicilios y comercios de nuetros clientes
+        </aside>
+    </main>
+    <footer>
+        &copy; Derechos Reservados 2023
+    </footer>
+</body>
+</html>
